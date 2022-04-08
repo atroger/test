@@ -1,3 +1,3 @@
 # test
 test repo
-with branch
+with branch & from master branch
